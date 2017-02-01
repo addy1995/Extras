@@ -1,3 +1,3 @@
 # Extras
 
-<h2>Note : For Games and Calendar use TurboC++.<h2>
+<h3>Note : For Games and Calendar use TurboC++.<h3>
